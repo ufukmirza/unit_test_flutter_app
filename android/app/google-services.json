@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "141318818913",
+    "project_id": "birim-testi",
+    "storage_bucket": "birim-testi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141318818913:android:4e61df182ac2095c89ee20",
+        "android_client_info": {
+          "package_name": "com.example.unit_test_flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "141318818913-u8iome1oues6dosgs877fnmiipal2cvm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQuTQilldguSoZk-uZuVOgpstYepH8coY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "141318818913-u8iome1oues6dosgs877fnmiipal2cvm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
